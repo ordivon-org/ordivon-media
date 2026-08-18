@@ -1,0 +1,22 @@
+{
+  "authorityBranch": "refs/heads/research/media-authority-publication-20260819",
+  "authorityVersionRef": "sha256:d73f350556c6a66ecf58750dba88ce34839334fdf2920d8cb6dcdfff59fd3c33",
+  "controls": [
+    "Source fence includes canonical research/media materialization plus owner identity migration, OMPC A/B/C/D dogfood and Phase-1 closeout.",
+    "MF0-MF9 frozen; MF10 UNKNOWN/NOT_ADMITTED; absolute whole-Media exhaustion NOT_CLAIMED.",
+    "Derived realities remain first-class nonprimitive and do not promote MF10.",
+    "Historical M7 and Studio Art & Expression are preserved without becoming Media Core authority.",
+    "Cross-owner bridges never transfer source-owner truth.",
+    "OMPC-v0 is a bounded technology-neutral reference/conformance contract, not an implementation framework.",
+    "Media Engine/Runtime/SDK/universal schema-validator and Web/Game absorption remain NOT_ADMITTED.",
+    "Phase 1 closed does not schedule Phase 2 or claim whole-Media completion.",
+    "Semantic source remains main@5b5dbb4; immutable owner publication uses a dedicated authority transport ref so publication metadata does not advance the live Media main."
+  ],
+  "current": "research/media/authority/CURRENT.json",
+  "date": "2026-08-19",
+  "kind": "ordivon.media-owner-publication-acceptance",
+  "publication": "research/media/authority/publications/d73f350556c6a66ecf58750dba88ce34839334fdf2920d8cb6dcdfff59fd3c33.json",
+  "schemaVersion": 1,
+  "sourceFence": "5b5dbb4145ca91b575e517b6d56fe119f0853a18",
+  "truthRole": "OWNER_PUBLICATION_MATERIALIZATION_EVIDENCE"
+}
